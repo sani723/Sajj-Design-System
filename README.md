@@ -39,8 +39,7 @@ Add pages to your app by connecting data and hooking up business logic. This is 
 - Docs site
 
 
-| -------------------------------------- | -------------------------------------- |
-| ![Avatar](avatar_image_url)            | Build each component in isolation and define its relevant states. Start small.                |
+| ![Web App](web_app_image_url) | Add pages to your app by connecting data and hooking up business logic. This is when your UI meets your backend APIs and services.
 
 
 ## Installation
