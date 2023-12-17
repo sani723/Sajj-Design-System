@@ -1,7 +1,7 @@
 # Sajj Design System
 
 ## Description
-Sajj Design System is a set of design rules and a component library that lets you prototype faster with easy-to-use cross-platform components
+Sajj Design System is a set of design rules development and design practice of building user interfaces with modular components. UIs are built from the “bottom up” starting with basic components then progressively combined to assemble screens.
 
 ## Development Approach
 ### Build one component at a time
