@@ -38,6 +38,17 @@ Add pages to your app by connecting data and hooking up business logic. This is 
 - Marketing site
 - Docs site
 
+## Benefits of Design System
+
+1. **Quality:** Verify that UIs work in different scenarios by building components in isolation and defining their relevant states.
+
+2. **Durability:** Pinpoint bugs down to the detail by testing at the component level. It’s less work and more precise than testing screens.
+
+3. **Speed:** Assemble UIs faster by reusing existing components from a component library or design system.
+
+4. **Efficiency:** Parallelize development and design by decomposing UI into discrete components then sharing the load between different team members.
+
+
 ## Installation
 To install and run the project, follow these steps...
 
