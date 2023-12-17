@@ -1,5 +1,7 @@
-{
-  "expo": {
+import { ExpoConfig, ConfigContext } from 'expo/config';
+
+export default ({ config }: ConfigContext): ExpoConfig => ({ 
+    ...config,
     "name": "Sajj",
     "slug": "Sajj",
     "version": "1.0.0",
@@ -25,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
-  }
-}
+    },
+    "extra": {
+      "stroybookEnabled": process.env.STORYBOOK === "1"
+    } 
+});

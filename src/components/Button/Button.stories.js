@@ -26,6 +26,6 @@ export const Basic = {};
 
 export const AnotherExample = {
   args: {
-    text: 'Another example',
+    text: 'Another Btn example',
   },
 };
