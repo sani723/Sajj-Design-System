@@ -1,11 +1,12 @@
 # Sajj Design System
 
 ## Description
-Sajj Design System is a set of design rules and component library that lets you prototype faster with easy to use cross-platform components
+Sajj Design System is a set of design rules and a component library that lets you prototype faster with easy-to-use cross-platform components
 
 ## Development Approach
 ### Build one component at a time
 ![Avatar](https://www.componentdriven.org/component.svg)
+
 Build each component in isolation and define its relevant states. Start small.
 - Avatar
 - Button
