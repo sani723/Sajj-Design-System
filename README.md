@@ -38,10 +38,9 @@ Add pages to your app by connecting data and hooking up business logic. This is 
 - Marketing site
 - Docs site
 
-| Build one component at a time          | Combine components                    |
+
 | -------------------------------------- | -------------------------------------- |
-| ![Avatar](avatar_image_url)            | ![Form](form_image_url)                |
-| Build each component in isolation and define its relevant states. Start small. | Compose small components together to unlock new features while gradually increasing complexity. |
+| ![Avatar](avatar_image_url)            | Build each component in isolation and define its relevant states. Start small.                |
 
 
 ## Installation
