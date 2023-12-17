@@ -38,10 +38,6 @@ Add pages to your app by connecting data and hooking up business logic. This is 
 - Marketing site
 - Docs site
 
-
-| ![Web App](web_app_image_url) | Add pages to your app by connecting data and hooking up business logic. This is when your UI meets your backend APIs and services.
-
-
 ## Installation
 To install and run the project, follow these steps...
 
